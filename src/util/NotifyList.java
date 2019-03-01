@@ -19,9 +19,9 @@ public class NotifyList {
 	public static List<String> getMailList() {
 		List<String> list = new ArrayList<>();
 		list.add("finalbird@foxmail.com");
-//		list.add("tongbuwangpan@163.com");
-//		list.add("174582555@qq.com");
-//		list.add("daqingdayou@163.com");
+		// list.add("tongbuwangpan@163.com");
+		// list.add("174582555@qq.com");
+		// list.add("daqingdayou@163.com");
 		return list;
 	}
 
